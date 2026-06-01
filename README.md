@@ -121,15 +121,28 @@ The dataset contains:
 - Improve return and cancellation management.
 
 ---
+Vrinda-Store-Sales-Analysis/
+│
+├── Dataset.xlsx
+├── Dashboard.xlsx
+├── Dashboard_Screenshot.png
+├── README.md
 
-## 📸 Dashboard Preview
+---
 
-(Add Dashboard Screenshot Here)
+## 👨‍💻 Author
 
-Example:
+**Randhir Thakur**
 
-![Dashboard Preview](dashboard.png)
+Data Analyst | Excel | SQL | Python | Power BI
 
+📧 Email: randhirbth123@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/randhir-thakur-451aa1286/
+
+---
+
+## ⭐ If you found this project useful, please give it a star.
 ---
 
 ## 📁 Project Structure
